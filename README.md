@@ -1,3 +1,3 @@
-# IntroduccionPython
+# Introduccion a Python
 
 Benvinguts al meu repositori de Python
